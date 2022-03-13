@@ -1,0 +1,99 @@
+
+body{
+  background-color: rgb(0, 0, 0);
+}
+.logo{
+  margin-left: 50px;
+}
+.card-body{
+  color: rgb(245, 244, 243);
+  padding-top: 100px;
+}
+h1{
+  font-size: 60px;
+  color: rgb(233, 55, 55);
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  text-align: center;
+}
+.titl{
+  text-align: center;
+}
+
+.ph{
+  color: rgb(223, 64, 64);
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.footer{
+  background-color: rgb(34, 33, 33);
+  color: aliceblue;
+  padding: 60px 50px;
+}
+.phe{
+  text-align: center;
+  color: rgb(223, 64, 64);
+  font-size:93px ;
+}
+p{
+  text-align: center;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.icon{
+font-size: 25px;
+}
+.felsa{
+  margin-left: 150px;
+}
+.serch{
+  margin-left:20px;
+}
+.collapse{
+  margin-left: 710px;
+  }
+nav .collapse .navbar-nav .nav-item .nav-link{
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  color: antiquewhite;
+   ;
+ }
+.card-tex{
+  color: #000;
+  text-align: center;
+}
+.card-tit{
+  color: rgb(223, 64, 64);
+  text-align: center;
+  font-size: 25px;
+ }
+.contact{
+  padding-inline-end:400px ;
+  padding-inline-start: 400px;
+  color: aliceblue;
+}
+.d-flex{
+  padding-inline-start: 900px; 
+  padding-inline-end:71px ;
+  padding-top: 10px;
+}
+.logo-f{
+  padding-right: 90px;
+  padding-top: 15px;
+}
+.btn-primary{
+  background-color: rgb(226, 45, 45);
+  padding: 10px 70px;
+ 
+}
+.btn-watch{
+  background-color: rgb(226, 45, 45);
+  color:white ;
+  padding: 10px;
+}
+ .btn-telecharge{
+  background-color: rgb(226, 45, 45);
+  padding: 10px;
+ }
+.btne{
+  background-color: rgb(66, 156, 179);
+  padding: 10px;
+  border-radius: 20px;
+  color: aliceblue;
+}
